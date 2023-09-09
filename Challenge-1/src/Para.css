@@ -1,0 +1,12 @@
+.p {
+  color: hsl(217, 12%, 63%);
+  font-family: "Overpass", sans-serif;
+  font-weight: 400;
+  font-size: 15px;
+  /* text-align: center; */
+}
+
+.thank-you-note
+{
+  text-align: center; 
+}

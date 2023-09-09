@@ -1,0 +1,15 @@
+#btn-num
+{
+    height: 45px;
+    width: 45px;
+    border-radius: 50%;
+    border: none;
+    background-color: hsl(213, 19%, 18%);
+    color:hsl(217, 12%, 63%);
+    
+}
+#btn-num:hover
+{
+    background-color: hsl(217, 12%, 63%);
+    color: white;
+}

@@ -1,0 +1,10 @@
+.items
+{
+    height: auto;
+    width:auto;
+    padding:10px 15px 10px 15px;
+    border-radius: 25px;
+    background-color: hsl(213, 19%, 18%);
+    color:hsl(25, 97%, 53%);
+}
+

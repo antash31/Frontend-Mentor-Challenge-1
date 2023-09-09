@@ -1,0 +1,19 @@
+.main-container
+{
+    width: 320px;
+    height:320px;
+    border-radius:10%;
+    padding:40px;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    /* align-items: center; */
+    background-image: linear-gradient(hsl(213, 19%, 18%),hsl(216, 12%, 8%));
+
+}
+
+.Jodd
+{
+    align-items: center;
+}
